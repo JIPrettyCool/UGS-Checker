@@ -2,3 +2,5 @@
 /.vscode
 /tempCodeRunnerFile.py
 /UGS-Hesaplayici.spec
+/.build
+/.dist
